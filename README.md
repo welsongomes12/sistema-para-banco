@@ -1,2 +1,2 @@
 # sistema-para-banco
-sistema cancario
+sistema bancário
